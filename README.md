@@ -21,7 +21,7 @@
   - Sales division by markets.
   - Profit by customer name.
 
-![](E-Commerce_Sales_Analysis_Dashboard/Screenshot E-Commerce.png)
+![](E-Commerce_Sales_Analysis_Dashboard/Screenshot/E-Commerce.png)
 
 [Dashboard](https://github.com/shikhar0503/Power-BI-Dashboards/E-Commerce_Sales_Analysis_Dashboard)
 
@@ -33,7 +33,7 @@
   - The Product Categories, Product Groups and Channels that generate more Revenue and Sales and the least contributors.
   - The Top 5 Salespersons by Revenue and Orders.
   - The Top Ranking Salespersons based on their performance.
-
+![](Food_Sales_Analytics_Dashboard/images/dark.png)
 ![](Food_Sales_Analytics_Dashboard/images/dark.png)
 
 [Dashboard](https://github.com/shikhar0503/Power-BI-Dashboards/Food_Sales_Analytics_Dashboard)
