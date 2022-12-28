@@ -8,7 +8,7 @@
   - Top books by user rating
   - Top books with highest number of reviews
 
-![ ](Amazon_Bestselling_Books_Analysis_Dashboard/Screenshot_amazon_dashboard.png)
+![](Amazon_Bestselling_Books_Analysis_Dashboard/Screenshot_amazon_dashboard.png)
 
 [Dashboard](https://github.com/shikhar0503/Power-BI-Dashboards/E-Commerce_Sales_Analysis_Dashboard)
 
